@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\bin\Debug\net8.0\MovieCollectionManager.exe
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\bin\Debug\net8.0\MovieCollectionManager.deps.json
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\bin\Debug\net8.0\MovieCollectionManager.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\bin\Debug\net8.0\MovieCollectionManager.dll
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\bin\Debug\net8.0\MovieCollectionManager.pdb
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.dll
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\refint\MovieCollectionManager.dll
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.pdb
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\MovieCollectionManager.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\MovieCollectionManager\MovieCollectionManager\obj\Debug\net8.0\ref\MovieCollectionManager.dll
